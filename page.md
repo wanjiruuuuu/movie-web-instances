@@ -22,6 +22,8 @@
 
 💾📱 [film.kace.dev](https://film.kace.dev) - by [userkace](https://github.com/userkace)
 
+💾📱 [sunnymovies](https://sunnymovies.site) - by [wanjiruuuuu](https://github.com/wanjiruuuuu)
+
 ---
 
 ## Alternatives
